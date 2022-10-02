@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MultipleActivityApp</string>
+    <string name="title_activity_final_screen">FinalScreenActivity</string>
+    <string name="title_activity_final">FinalActivity</string>
+</resources>
